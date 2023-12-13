@@ -1,9 +1,14 @@
 # AgroGuard: Plant Disease Detection
 
+## Presentation & Video 
+Presentation Link - https://www.canva.com/design/DAF21CAcdhs/mIWU2PkP72pnttNMkhV86A/view
+
+Video Link - https://youtu.be/nd3bInfC0w4?feature=shared
 <table>
 <tr>
 <td>
-<img src="web/src/assets/logo.png" alt="Your Logo" width="200%" height="200%">
+<!--<img src="web/src/assets/logo.png" alt="Your Logo" width="200%" height="200%">-->
+  Brief
 </td>
 <td>
 <b><i>AgroGuard is a powerful web-based platform that allows farmers to detect plant diseases by simply uploading an image. Using advanced machine learning models and a user-friendly interface, AgroGuard aims to provide timely and accurate disease identification, accompanied by the progression rates of potential diseases.</b>
